@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "tasks": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://punya:admin123@loopback-kuiiy.mongodb.net/test?retryWrites=true",
+    "database": "",
+    "password": "",
+    "name": "tasks",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
